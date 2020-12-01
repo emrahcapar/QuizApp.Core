@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qOWk2245zdFLn1dM+33XKwmROeJQbZ2pJuJ6s4J6ww9YfbTR0mHzm96tHq7u2w0ympgYXhPr2YClZjpvQvs8Jg==",
+  "success": true,
+  "projectFilePath": "/Users/emrahcapar/Desktop/WorkPlace/Web/QuizApp.Core/QuizApp.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/emrahcapar/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
